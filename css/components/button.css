@@ -1,0 +1,14 @@
+.button-sand {
+  background-color: white;
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+  padding: 15px 25px;
+  border-radius: 30px;
+  transition: 0.2s ease;
+}
+
+.button-sand:hover {
+  font-size: 22px;
+  font-weight: 550;
+}

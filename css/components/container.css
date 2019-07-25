@@ -1,0 +1,17 @@
+.banner > .container {
+  text-align: left;
+  position: absolute;
+  left: 50px;
+}
+
+.how-it-works > .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+  margin: 0 auto;
+}
+
+.container {
+  width: 80%;
+}
